@@ -14,11 +14,11 @@
 
 > Mention which branches this PR should be merged in to.
 
-- <BRANCH_NAME>
-- <BRANCH_NAME>
-- <BRANCH_NAME>
+- `<BRANCH_NAME>`
+- `<BRANCH_NAME>`
+- `<BRANCH_NAME>`
 
-## Testing done
+## How these changes were tested
 
 > Describe the testing that you have performed to ensure the changes are working as expected. Include details about the test cases or scenarios covered.
 
