@@ -1,17 +1,25 @@
 ## Description
 
+> **Note**
+>
 > Provide a brief description about **why** this PR is necessary. Be sure to provide context.
 
 ## Related issues and/or PRs
 
+> **Note**
+>
 > If this PR addresses or references any issues and/or other PRs, list them here. For example, "Fixes #123", "Related to #456", or "Addresses #789".
 
 ## Changes made
 
+> **Note**
+>
 > Outline the specific changes made in this pull request. Include relevant details, such as added features, bug fixes, code refactoring, or improvements.
 
 ## How these changes were tested
 
+> **Note**
+>
 > Describe the testing that you have performed to ensure the changes are working as expected. Include details about the test cases or scenarios covered.
 
 ## Checklist
@@ -25,11 +33,15 @@
 
 ## Additional notes (optional)
 
+> **Note**
+>
 > Provide any additional information or notes that may be relevant to the reviewers or stakeholders.
 
 ## Release notes
 
-> Provide release note text for this PR based on the guidelines at LINK.
+> **Note**
+>
+> Provide release note text for this PR based on the guidelines at [Guidelines for Writing Release Notes](https://developers.scalar-labs.com/docs/style-guide/release-notes/).
 > 
 > For example:
 > 
